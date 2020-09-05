@@ -1,1 +1,2 @@
-# Flux-Practice-BookMark
+# BookMarkApp
+Simple  BookMark Application - Javascript
